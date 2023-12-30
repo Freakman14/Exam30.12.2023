@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\bin\Debug\net8.0\section2.exe
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\bin\Debug\net8.0\section2.deps.json
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\bin\Debug\net8.0\section2.runtimeconfig.json
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\bin\Debug\net8.0\section2.dll
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\bin\Debug\net8.0\section2.pdb
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\obj\Debug\net8.0\section2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\obj\Debug\net8.0\section2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\obj\Debug\net8.0\section2.AssemblyInfo.cs
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\obj\Debug\net8.0\section2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\obj\Debug\net8.0\section2.dll
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\obj\Debug\net8.0\refint\section2.dll
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\obj\Debug\net8.0\section2.pdb
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\obj\Debug\net8.0\section2.genruntimeconfig.cache
+C:\Users\User\Desktop\Inhers\Exam30.12.2023\Task7\section2\obj\Debug\net8.0\ref\section2.dll
